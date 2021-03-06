@@ -1,0 +1,125 @@
+.kab{
+    margin-right: 10px;
+}
+.navbar-brand
+{
+    color: blue;
+}
+#lli{
+color:rgb(89, 89, 241);
+border-style:groove;
+border-radius: 12px;
+font-weight: 500;
+background-color:rgb(241, 241, 63);
+}
+.cont1{
+    background-color: white;
+height:380px;
+width: 420px;
+margin-top: 40px;
+margin-left: 30px;
+display: inline-block;
+position: relative;
+border-radius: 10px;
+}
+.cont2{
+    background-color: white;
+height:380px;
+width:420px;
+margin-top: 40px;
+margin-left: 30px;
+display: inline-block;
+position: relative;
+border-radius: 10px;
+}
+.cont3{
+    background-color: white;
+height:380px;
+width:420px;
+margin-top: 40px;
+margin-left: 30px;
+display: inline-block;
+position: relative;
+border-radius: 10px;
+}
+.cont4{
+    height:380px;
+    width:420px;
+    margin-top: 40px;
+    margin-left: 30px;
+    display: inline-block;
+    position: relative; 
+    background-color: white;
+    border-radius: 10px;
+}
+.img1 img{
+    height: 40px;
+    width: 40px;
+}
+.acc{
+    height: 150px;
+    width: 150px;
+    float: right;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.c1{
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.imag1{
+    margin-top: 40px;
+    margin-left: 40px;
+    zoom: 2;
+    border-style: dotted;
+    border-radius: 20px;
+}
+.fot1{
+    margin-top: 40px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 70px;
+    height: 70px;
+    position: relative;
+}
+.fot1c{
+    height: 50px;
+    width: 80px;
+    display: inline-block;
+    font-size: small;
+    float: left;
+    margin-top: 18px;
+}
+.fot1 button{
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color: rgb(13, 88, 23);
+    margin-right: 25px;
+    font-weight: 600;
+}
+.fot1c strong{
+color: rgb(101, 104, 104);
+}
+body{
+    background-color: #e8effa;
+}
+#contai4{
+margin-bottom: 30px;
+}
+.mi{
+    margin-left: 60px;
+}
+.ram{
+    font-weight: 300px;
+    color: black;
+}
+#ram{
+    font-weight: 300px;
+    color: black;
+    font-size: larger;
+}
